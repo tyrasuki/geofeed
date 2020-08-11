@@ -5,4 +5,4 @@ This project includes self-published geofeed data for AS49752, using the format 
 
 ## contributing
 
-Contributions are check on a case-by-case basis. If you believe one of the locations of the subnets listed anywhere in this repository 
+Contributions are checked on a case-by-case basis. If you believe one of the locations of the subnets listed anywhere in this repository 
