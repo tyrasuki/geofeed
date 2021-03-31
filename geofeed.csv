@@ -1,17 +1,20 @@
-# Parenting blocks
-## IPv4
 45.129.94.0/24,BE,BE-VAN,Dessel,2480
+
 185.44.82.0/24,BE,BE-VAN,Dessel,2480
+
 212.94.55.0/24,DE,DE-BY,Nuremberg,90429
-## IPv6
+
 2a01:208::/32,BE,BE-VAN,Dessel,2480
-2a02:369::/32,DE,DE-BY,Nuremberg,90429
-2602:fe2e:fff::/48,US,US-NY,Brooklyn,11232
-2a0e:46c5::/32,BE,BE-VAN,Dessel,2480
-2001:678:c44::/48,DE,DE-BY,Nuremberg,90429
-2001:678:c6c::/48,BE,BE-VAN,Dessel,2480
-2001:67c:2ea8::/48,BE,BE-VAN,Dessel,2480
-#
-# More-specifics
-#
 2a01:208:208::/48,DE,DE-BY,Nuremberg,90429
+
+2a02:369::/32,DE,DE-BY,Nuremberg,90429
+
+2602:fe2e:fff::/48,US,US-NY,Brooklyn,11232
+
+2a0e:46c5::/32,BE,BE-VAN,Dessel,2480
+
+2001:678:c44::/48,DE,DE-BY,Nuremberg,90429
+
+2001:678:c6c::/48,BE,BE-VAN,Dessel,2480
+
+2001:67c:2ea8::/48,BE,BE-VAN,Dessel,2480
